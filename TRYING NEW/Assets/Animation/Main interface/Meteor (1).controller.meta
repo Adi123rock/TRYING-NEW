@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:2D Arcade Shooter main/Assets/Animation/Main interface/L2/L2WAVES.controller.meta
+guid: d9bdfa50b63602e43991ca4b6d8e6f26
+========
 guid: 2f4dad7114838d74ab99c4863ab56d1f
+>>>>>>>> 13f6f8293998aecd1e491886689c9d4d30ad4ea6:2D Arcade Shooter main/Assets/Animation/Main interface/Meteor (1).controller.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 9100000

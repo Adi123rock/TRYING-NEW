@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:2D Arcade Shooter main/Assets/Animation/Main interface/L1W1.anim.meta
+guid: 83d4a1883e0a9074b811281ae56abfbe
+========
 guid: efe4f39c595af4547b2d841a1689793b
+>>>>>>>> 13f6f8293998aecd1e491886689c9d4d30ad4ea6:2D Arcade Shooter main/Assets/Animation/Boss/Dead.anim.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000

@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:2D Arcade Shooter main/Assets/default.unity.meta
+guid: 3d0f4819c8c11774c990fcaf1054941f
+DefaultImporter:
+========
 guid: 2d0151f0480923e42891589e1397aedf
 PrefabImporter:
+>>>>>>>> 13f6f8293998aecd1e491886689c9d4d30ad4ea6:2D Arcade Shooter main/Assets/Enemy3.prefab.meta
   externalObjects: {}
   userData: 
   assetBundleName: 

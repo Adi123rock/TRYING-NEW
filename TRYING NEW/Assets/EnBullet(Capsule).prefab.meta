@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:2D Arcade Shooter main/Assets/Scenes/hruday/EnBullet(Capsule).prefab.meta
+guid: 5cf0afa178070654c881bd64dde7b37c
+=======
 guid: 989b3fdce0cce4644ae132ac2c28b98c
+>>>>>>> 13f6f8293998aecd1e491886689c9d4d30ad4ea6:2D Arcade Shooter main/Assets/EnBullet(Capsule).prefab.meta
 PrefabImporter:
   externalObjects: {}
   userData: 
